@@ -1,0 +1,5 @@
+{
+  "name": "telegram-to-fb-worker",
+  "description": "Cloudflare Worker automation to post Telegram videos to Facebook Page via R2 storage",
+  "requestFramePermissions": []
+}
